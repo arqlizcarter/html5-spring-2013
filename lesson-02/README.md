@@ -8,7 +8,7 @@ I was pretty surprised with all the new markups in HTML5. I have taken a html cl
 In this assignment I used these new markups    
 Header- Defines a header for a document or section
 Aside- Defines content aside from the page content
-Hgroup- Groups a set of <h1> to <h6> elements when a heading has multiple levels
+Hgroup- Groups a set of h1 to h6 elements when a heading has multiple levels
 Nav- Defines navigation links
 Section- Defines a section in a document
 Article - Defines an article
