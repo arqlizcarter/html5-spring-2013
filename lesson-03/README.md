@@ -3,4 +3,11 @@ html5-spring-2013
 
 SRJC CS50.12 Section 5371
 
-This is a template repository for Santa Rosa Junior College students.    Clone this repository into your account 
+Hi Professor
+
+This is the five elements that I used 
+Border Radius
+Box shadows
+Text shadow
+Gradients
+Transition 
